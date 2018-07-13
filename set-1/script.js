@@ -1,0 +1,21 @@
+
+console.log(4 > 2);
+console.log(2 > 4);
+console.log(59 === 9);
+console.log(59 !== 9);
+console.log(5 >= 6);
+console.log(5 <= 6);
+console.log(5 <= 5);
+console.log(5 < 5);
+console.log(4 > 2 && 59 === 9);
+console.log(79 < 80 && 80 > 79);
+console.log(7 !== 8 && 9 !==4);
+console.log(99 < 9);
+console.log(99 < 9 || 1000 > 100);
+console.log(99 < 9 && 1000 > 100);
+console.log(!(2 === 2));
+console.log(!(80 > 2));
+console.log(!(99 < 9) && 49 > 50);
+console.log(48 > 8 && 34 < 900 && 49 > 50);
+console.log((48 > 8 && 34 < 90) || 49 > 50);
+console.log((48 > 8 && 34 < 90) || 49 > 50);
